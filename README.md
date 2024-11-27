@@ -1,2 +1,2 @@
 # EmojiVibes
-基于 Emoji 数据的情感脉搏
+Emoji 的“宇宙”，适合多维度探索
